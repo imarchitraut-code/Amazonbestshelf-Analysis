@@ -1,5 +1,9 @@
 #Amazonbestshelf-Analysis
+# BookInsights
 
+**[View Live Dashboard](https://amazonbestshelf-analysis-xkfyqmqljnaifkf8szb2xk.streamlit.app/)**
+
+An interactive Streamlit web application for exploring and analyzing Amazon's Top 50 Best-Selling Books (2009-2019). The app allows users to search, filter, and visualize trends across authors, genres, user ratings, and prices using the Python library Pandas.
 An interactive Streamlit web application for exploring and analyzing Amazon's Top 50 Best-Selling Books (2009-2019). The app allows users to search, filter, and visualize trends across authors, genres, user ratings, and prices using the Python library Pandas.
 
 ## Overview
